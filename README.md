@@ -34,13 +34,3 @@ bus_id (FK)
 rating
 comments
 
-structure:
-public-transport-reliability-sql/
-├── README.md
-├── tablesinfo.txt               # Table creation queries
-├── transport analysis.txt       # Analysis SQL queries
-├── data_csv/
-    ├── buses.csv
-    ├── routes.csv
-    ├── arrival_logs.csv
-    └── feedback.csv
