@@ -5,8 +5,9 @@ This project analyzes the reliability of public bus transportation using Postgre
 PostgreSQL (v14 or higher recommended)
 pgAdmin (or any SQL GUI)
 CSV files for data import
-🧱 Database Schema
 
+
+🧱 Database Schema
 1. routes
 route_id (PK)
 origin
