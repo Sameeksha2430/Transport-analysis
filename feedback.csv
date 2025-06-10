@@ -1,0 +1,87 @@
+1,B1002,01-06-2025,3,Good service
+2,B1002,01-06-2025,4,Bad weather delay
+3,B1003,01-06-2025,3,Bad weather delay
+4,B1005,01-06-2025,4,Smooth ride
+5,B1006,01-06-2025,2,Crowded
+6,B1000,02-06-2025,3,Bad weather delay
+7,B1000,02-06-2025,5,Smooth ride
+8,B1001,02-06-2025,2,On time
+9,B1003,02-06-2025,4,Very late
+10,B1004,02-06-2025,4,Smooth ride
+11,B1005,02-06-2025,4,Smooth ride
+12,B1009,02-06-2025,1,Good service
+13,B1000,03-06-2025,1,On time
+14,B1002,03-06-2025,2,Bad weather delay
+15,B1002,03-06-2025,2,Good service
+16,B1006,03-06-2025,2,Smooth ride
+17,B1007,03-06-2025,5,Good service
+18,B1008,03-06-2025,4,Good service
+19,B1008,03-06-2025,3,Bad weather delay
+20,B1000,04-06-2025,3,Smooth ride
+21,B1003,04-06-2025,1,Crowded
+22,B1003,04-06-2025,3,Bad weather delay
+23,B1005,04-06-2025,3,On time
+24,B1005,04-06-2025,2,Very late
+25,B1009,04-06-2025,4,Crowded
+26,B1009,04-06-2025,5,On time
+27,B1004,05-06-2025,5,On time
+28,B1004,05-06-2025,4,On time
+29,B1000,06-06-2025,2,Bad weather delay
+30,B1005,06-06-2025,1,Bad weather delay
+31,B1006,06-06-2025,2,Smooth ride
+32,B1006,06-06-2025,4,Smooth ride
+33,B1007,06-06-2025,1,On time
+34,B1007,06-06-2025,2,Good service
+35,B1001,07-06-2025,1,Very late
+36,B1002,07-06-2025,2,Smooth ride
+37,B1004,07-06-2025,5,Crowded
+38,B1006,07-06-2025,2,Bad weather delay
+39,B1006,07-06-2025,3,Smooth ride
+40,B1007,07-06-2025,1,Bad weather delay
+41,B1007,07-06-2025,3,Good service
+42,B1008,07-06-2025,4,Smooth ride
+43,B1008,07-06-2025,1,Good service
+44,B1001,08-06-2025,4,Good service
+45,B1003,08-06-2025,4,Very late
+46,B1003,08-06-2025,2,On time
+47,B1005,08-06-2025,3,Bad weather delay
+48,B1006,08-06-2025,3,Smooth ride
+49,B1007,08-06-2025,1,Bad weather delay
+50,B1008,08-06-2025,1,Crowded
+51,B1009,08-06-2025,3,Crowded
+52,B1000,09-06-2025,1,Good service
+53,B1001,09-06-2025,5,Good service
+54,B1004,09-06-2025,1,Crowded
+55,B1005,09-06-2025,2,Good service
+56,B1008,09-06-2025,5,Crowded
+57,B1000,10-06-2025,1,Bad weather delay
+58,B1000,10-06-2025,1,Smooth ride
+59,B1002,10-06-2025,1,Smooth ride
+60,B1002,10-06-2025,1,Good service
+61,B1004,10-06-2025,1,Very late
+62,B1007,10-06-2025,1,Very late
+63,B1008,10-06-2025,3,Crowded
+64,B1009,10-06-2025,1,Good service
+65,B1000,11-06-2025,4,Crowded
+66,B1001,11-06-2025,4,Bad weather delay
+67,B1003,11-06-2025,1,On time
+68,B1004,11-06-2025,5,Crowded
+69,B1006,11-06-2025,4,Good service
+70,B1009,11-06-2025,3,Very late
+71,B1005,12-06-2025,2,Crowded
+72,B1009,12-06-2025,2,Smooth ride
+73,B1001,13-06-2025,4,Good service
+74,B1001,13-06-2025,3,Very late
+75,B1004,13-06-2025,4,Smooth ride
+76,B1006,13-06-2025,4,Bad weather delay
+77,B1007,13-06-2025,4,Very late
+78,B1009,13-06-2025,1,Smooth ride
+79,B1006,14-06-2025,2,Very late
+80,B1008,14-06-2025,5,Good service
+81,B1008,14-06-2025,2,Crowded
+82,B1009,14-06-2025,4,Very late
+83,B1009,14-06-2025,2,On time
+84,B1009,14-06-2025,4,On time
+85,B1001,15-06-2025,4,Very late
+86,B1005,15-06-2025,4,Very late
+87,B1006,15-06-2025,4,Smooth ride

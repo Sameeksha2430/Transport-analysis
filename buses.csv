@@ -1,0 +1,11 @@
+bus_id,route_id,capacity,operator_name
+B1000,1,30,GreenRide
+B1001,3,35,CityTrans
+B1002,2,30,GreenRide
+B1003,1,50,MetroMove
+B1004,1,30,CityTrans
+B1005,2,35,GreenRide
+B1006,1,50,CityTrans
+B1007,4,35,MetroMove
+B1008,3,30,CityTrans
+B1009,4,40,MetroMove
