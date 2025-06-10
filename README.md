@@ -2,6 +2,7 @@
 This project analyzes the reliability of public bus transportation using PostgreSQL. It focuses on on-time performance, delay causes (like weather), and feedback ratings. The goal is to provide meaningful insights for improving public transport systems using SQL only.
 
 🧰 Tech Stack
+
 PostgreSQL (v14 or higher recommended)
 pgAdmin (or any SQL GUI)
 CSV files for data import
