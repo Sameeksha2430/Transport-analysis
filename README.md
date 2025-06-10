@@ -10,29 +10,45 @@ CSV files for data import
 
 🧱 Database Schema
 1. routes
+
 route_id (PK)
+
 origin
+
 destination
+
 distance_km
 
-2. buses
+3. buses
 bus_id (PK)
+
 route_id (FK)
+
 capacity
+
 operator_name
 
-3. arrival_logs
+5. arrival_logs
 log_id (PK)
+
 bus_id (FK)
+
 stop_name
+
 scheduled_time
+
 actual_time
+
 date
+
 weather
 
-4. feedback
+7. feedback
 feedback_id (PK)
+
 bus_id (FK)
+
 rating
+
 comments
 
